@@ -1,0 +1,37 @@
+.checkout{
+    padding: 0 1em;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.left__section{
+    width: 68%;
+    padding: 1em 0em;
+    /* background-color: burlywood; */
+}
+
+.shopping__cart__container{
+    margin-top: 20px;
+}
+
+.right__section{
+    /* background-color: brown; */
+    width: 26%;
+    text-align: center;
+    padding: 1em 0em;
+}
+
+.checkout__ad{
+    width: 100%;  
+}
+
+.checkout__title{
+    /* margin-right: 20px; */
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.user_name{
+    margin-left: 10px;
+}
